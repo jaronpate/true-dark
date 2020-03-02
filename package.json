@@ -2,7 +2,7 @@
     "name": "true-dark",
     "displayName": "True Dark",
     "description": "A truly dark theme for Visual Studio Code.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "Jaron",
     "icon": "logo.png",
     "engines": {
@@ -11,10 +11,10 @@
     "categories": [
         "Themes"
     ],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/jaronpate/true-dark.git"
-	},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jaronpate/true-dark.git"
+    },
     "contributes": {
         "themes": [
             {
