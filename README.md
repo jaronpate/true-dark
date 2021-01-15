@@ -6,4 +6,3 @@
 ### Contact
 * Discord: Jaron#4546
 * GitHub: [jaronpate](https://github.com/jaronpate)
-* Email: jaronpate@gmail.com
